@@ -1,0 +1,6 @@
+[submodule "themes"]
+	path = themes
+	url = https://github.com/jimeh/tmux-themepack.git
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = https://git::@github.com/tmux-plugins/tpm
